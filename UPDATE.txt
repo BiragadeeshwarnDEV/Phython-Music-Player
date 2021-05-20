@@ -1,0 +1,3 @@
+In The Terminal Of PYCHARM
+Paste This Code:
+pip install playsound
